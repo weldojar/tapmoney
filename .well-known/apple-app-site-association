@@ -1,0 +1,25 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [
+            "W44679TY55.com.example.budgetApp.ios.tapMoney.v1"
+          ],
+          "paths": [
+            "*"
+          ],
+          "components": [
+            {
+              "/": "/*"
+            }
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "W44679TY55.com.example.budgetApp.ios.tapMoney.v1"
+      ]
+    }
+  }
